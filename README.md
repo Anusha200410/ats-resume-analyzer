@@ -23,6 +23,6 @@ ATS Resume Checker is a web application that analyzes resumes and evaluates thei
 
 
 ## ⚙️ How to Run
-
+```bash
 npm install
 npm start
