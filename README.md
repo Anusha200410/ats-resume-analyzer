@@ -17,7 +17,7 @@ ATS Resume Checker is a web application that analyzes resumes and evaluates thei
 ## 🔹 Tech Stack
 - Frontend: React.js / HTML / CSS
 - Backend: Node.js / Express
-- Other Tools: NLP / APIs (if applicable)
+- Other Tools: NLP / APIs 
 
 ---
 
